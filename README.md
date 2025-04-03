@@ -10,6 +10,14 @@ StegoFace is a deep learning-based **steganography model** designed to enhance *
 - 🎯 **Recurrent Proposal Network (RPN)** for accurate facial region detection.  
 - ⚡ **Real-time verification** for ID security applications.  
 
+## 🛠️ PROJECT OUTPUT
+![Alt Text](https://github.com/saidhanush27/StegoFace/blob/5f46b3893a7a1747ec0a92e522d5187a6ea8547c/Stegoface-images/1.png) <br><br>
+![Alt Text](https://github.com/saidhanush27/StegoFace/blob/5f46b3893a7a1747ec0a92e522d5187a6ea8547c/Stegoface-images/2.png)  <br><br>
+![Alt Text](https://github.com/saidhanush27/StegoFace/blob/5f46b3893a7a1747ec0a92e522d5187a6ea8547c/Stegoface-images/3.png)  <br><br>
+![Alt Text](https://github.com/saidhanush27/StegoFace/blob/5f46b3893a7a1747ec0a92e522d5187a6ea8547c/Stegoface-images/4.png)   <br><br>
+
+
+  
 ## 🛠️ Technologies Used  
 - 🐍 **Python**  
 - 🤖 **TensorFlow/Keras** (Deep Learning)  
